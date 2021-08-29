@@ -1,0 +1,20 @@
+#text{
+    font-family: Helvetica;
+    font-size: 100px;
+    text-align: center;
+    font-weight:bold;
+    color:khaki;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+}
+
+#brushes{
+    font-weight: bold;
+    font-size: 32px;
+    background-color: mediumaquamarine;
+    color:white;
+    font-family: Helvetica;
+    width: 250px;
+    text-align: center;
+    text-transform: uppercase;
+    left: 25px;
+}
